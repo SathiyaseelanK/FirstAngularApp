@@ -1,1 +1,1 @@
-# MyFirstWeb
+# Manoose Example
