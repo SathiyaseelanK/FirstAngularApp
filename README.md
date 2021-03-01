@@ -1,1 +1,1 @@
-# Manoose Example
+# Mangoose Example
